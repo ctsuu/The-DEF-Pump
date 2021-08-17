@@ -57,7 +57,13 @@ A 32.5% solution of DEF will begin to crystallize and freeze at 12 deg F (-11 de
 During vehicle operation, SCR systems are designed to provide heating for the DEF tank and supply lines. If DEF freezes when the vehicle is shut down, start up and normal operation of the vehicle will not be inhibited. The SCR heating system is designed to quickly return the DEF to liquid form and the operation of the vehicle will not be impacted. The freezing and unthawing of DEF will not cause degradation of the product. No additive could be use to improve the freeze point. Any further blending or adjusting of the DEF mixture will impede its ability to perform correctly and may cause damage to the SCR components. 
 
 The Canadian Winter is well below the -11 deg C, sometime reaches -40 deg c. Even the OEM DEF distribution system is designed for the condition, the repeated freezing and unthawing cycle still can stress out the Urea pump. Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump for the Diesel engines on the list. 
-  https://www.dormanproducts.com/p-84945-599-995.aspx?origin=keyword
+
+https://www.vehicleservicepros.com/service-repair/diagnostics-and-drivability/article/21196332/bluetec-a-revolution-in-diesel-nox-emissions-technology
+
+The AdBlue tank is designed to store enough to make it to the next service but with aggressive driving it may have to be topped off before then. AdBlue’s freezing point is 12º Fahrenheit and unlike windshield washer fluid, there are no compatible anti-freezing additives. As a result, the entire storage and supply system is heated and there are no moving parts in the tank. Instead of a float to measure the level, an electronic sensor uses three switches to indicate Full, Reserve and Empty. There are three heaters as well — one in the tank, one inside the pump, and one on the pressure line to the metering valve. The pump is mounted on top of the tank but it has to pull from the bottom, so it has a hard time priming, unlike a fuel pump which is submerged. When the engine is shut off, the metering valve is held open, the pump switches into reverse, and empties the line so that it doesn’t freeze.
+
+
+https://www.dormanproducts.com/p-84945-599-995.aspx?origin=keyword
   https://www.dormanproducts.com/p-130281-904-607.aspx?origin=keyword
   https://www.dormanproducts.com/p-132963-904-608.aspx?origin=keyword
   https://www.dormanproducts.com/p-130278-904-609.aspx?origin=keyword
