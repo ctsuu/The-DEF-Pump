@@ -11,8 +11,6 @@ https://news.pickuptrucks.com/2010/07/real-world-challenges-with-diesel-exhaust-
 https://www.dormanproducts.com/flipbook/dormandiesel/catalog/versions/die75592-1.pdf
 
 # Diesel Engine Line up
-## Audi
-### 
 
 ## Chrysler
 ### 2.7L
@@ -40,10 +38,23 @@ A substance called AdBlue helps Mercedes-Benz BlueTEC engines produce such clean
 
 ## Volkswagen/Audi
 ### https://www.caranddriver.com/news/a15339250/everything-you-need-to-know-about-the-vw-diesel-emissions-scandal/
-### What are selective catalytic reduction and urea injection?
+### What are Selective Catalytic Reduction and urea injection?
 
 Diesel fuel is carbon rich and close in composition to home heating oil. As such, it’s inherently dirty and sooty when burned. While heavy-duty diesel pickups, vans, trucks, and other commercial vehicles follow looser environmental standards, light-duty vehicles have it tough—and nowhere is it tougher to certify a diesel car or truck than in the U.S. In order to trap particulates and curb nitrogen oxide in practically all new diesel engines, selective catalytic reduction (SCR) and urea injection must be used.
 
 A three-way catalytic converter in gasoline vehicles treats exhaust gas by both oxidizing (adding oxygen to convert carbon monoxide and other hydrocarbons to carbon dioxide and water) and reducing (removing oxygen to convert nitrogen oxide to nitrogen and water). But diesel engines burn so lean that they require separate oxidation and reduction catalysts. After diesel exhaust passes through the oxidation catalyst and a particulate filter, diesel exhaust fluid (DEF, branded by VW as AdBlue) is injected into the stream before entering the reduction catalyst. DEF is a precise mixture of one-third urea and two-thirds deionized water and must be refilled (typically at manufacturer-recommended oil-change intervals) from a separate tank.
+
+[MB10033-DEF Q&A.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996377/MB10033-DEF.Q.A.pdf)
+
+# Our Solution: Diesel Exhaust Gas Treatment System
+[Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
+Our Solution is based on the Selective Catalytic Reduction(SCR) technology that uses a urea based diesel exhaust fluid (DEF) and a catalytic converter to significantly reduce oxides of nitrogen(NOx) emissions. SCR is the leading technology being used to meet 2010 emission regulations. 
+The system comprase with A Urea Tank, a Urea heating barrel, a metering pump, tubing and Urea injector. The only moving part is the DEF pump that injects small quantities of DEF into the exhaust upstream of a catalyst. The DEF vaporizes and decomposes to form ammonia and carbon dioxide. The ammonia (NH3) is the desired product which in conjunction to the SCR catalyst, converts the NOx to harmless nitrogen(N2) and water(H2O). 
+
+A 32.5% solution of DEF will begin to crystallize and freeze at 12 deg F (-11 deg C). At 32.5%, both the urea and water will freeze at the same rate, ensuring that as it thaws, the fluid does not become diluted, or over concentrated. The freezing and unthawing of DEF will not cause degradation of the product. DEF expands by approximately 7% when frozen. DEF packaging and tanks are designed to allow for expansion.
+
+During vehicle operation, SCR systems are designed to provide heating for the DEF tank and supply lines. If DEF freezes when the vehicle is shut down, start up and normal operation of the vehicle will not be inhibited. The SCR heating system is designed to quickly return the DEF to liquid form and the operation of the vehicle will not be impacted. The freezing and unthawing of DEF will not cause degradation of the product. No additive could be use to improve the freeze point. Any further blending or adjusting of the DEF mixture will impede its ability to perform correctly and may cause damage to the SCR components. 
+
+The Canadian Winter is well below the -11 deg C, sometime reaches -40 deg c. Even the OEM DEF distribution system is designed for the condition, the repeated freezing and unthawing cycle still can stress out the Urea pump. Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump for the Diesel engines on the list. 
 
 
