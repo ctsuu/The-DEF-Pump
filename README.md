@@ -68,7 +68,10 @@ Our diesel exhaust fluid (DEF) pump matches the fit and function of the original
 Our Urea injection Nozzle is the direct replacement of the original part(Cross reference number: 0280 158705, GM 19300179). The package contents 1 
 Urea injection Nozzle.
 
-Our 
+Our Urea heater is the direct replacement of the original part (Cross reference number: BC3Z5J225KA, BC3Z5J225L, 7034114, 904-372). 
+![BC3Z5J225L](https://user-images.githubusercontent.com/22917810/130367193-02da21de-75ab-458e-9ca8-78fab8207966.PNG)
+
+
 
 
 
