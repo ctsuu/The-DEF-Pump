@@ -58,8 +58,20 @@ https://www.fluidlife.com/blog-common-def-problems-testing/
 
 ![UREA Tank and Components](https://user-images.githubusercontent.com/22917810/130365614-26e6d3e0-c916-4808-b811-c6f2b39e65ba.png)
 
+On the component side, We are focus our resources on the DEF pumps, the Urea heater units, and the Urea injectors of the major Car manufacturtors(Ford, GM, Mercedes-Benz, VW/Audi). Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump, the Urea injection Nozzle and the Urea heater for the Diesel engines on the list. 
 
-The Canadian Winter is well below the -11 deg C, sometime reaches -40 deg c. Even the OEM DEF distribution system is designed for the condition, the repeated freezing and unthawing cycle still can stress out the Urea pump. Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump for the Diesel engines on the list. 
+## Ford
+### V8 406 6.7L (6651cc) Diesel Engine
+This engine is the power plant for 2011-2016 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, F-550 Super Duty Family. 
+Our diesel exhaust fluid (DEF) pump matches the fit and function of the original part( Cross Reference number: BC3Z5J229K, BC3Z5J229L, BC3Z5L227D, BC3Z5L227K, BC3Z5L229L). The package contents 1 Diesel Exhaust Fluid (DEF) pump and Mounting Hardwares. 
+
+Our Urea injection Nozzle is the direct replacement of the original part(Cross reference number: 0280 158705, GM 19300179). The package contents 1 
+Urea injection Nozzle.
+
+Our 
+
+
+
 
 
 [Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
