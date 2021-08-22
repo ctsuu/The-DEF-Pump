@@ -88,9 +88,137 @@ Our Urea heater (item 6) is the direct replacement of the original part (Cross r
 
 ## Audi/BMW/Mercedes Benz/Volkswagen
 ### Direct Replacement Diesel Emission Fluid(DEF) Pump -0024706894 - Bosch F-01C-600-194
-0928404016 F01C600194, 002 470 68 94 With nearly 1.3 million Duramax diesel engines in operation,
-
 ![s-l1600](https://user-images.githubusercontent.com/22917810/130368971-605aa810-6c27-49b3-b9ee-8accbb9b38ae.jpg)
+
+#### Associated Part Number: 
+002 470 68 94, 002-470-68-94, 002-470-68-94-M14, 002.470.68.94, 0024706894, 4047025102667, F 01C 600 194, F-01C-600-194, F.01C.600.194, F01C600194, 0928404016, 0928404008, 1908499093.
+
+#### Fitment
+This part fits the following vehicles: 
+
+Year	Make	Model	Trim	Body	Engine
+Mercedes-Benz E250 Bluetec 4M Sedan 2.1L L4 — Chassis 212.097
+> View part 002-470-68-94-M14 in this catalog
+2014	Mercedes-Benz	E250	Bluetec 4M	Sedan	2.1L L4
+2015	Mercedes-Benz	E250	Bluetec 4M	Sedan	2.1L L4
+2016	Mercedes-Benz	E250	Bluetec 4M	Sedan	2.1L L4
+Mercedes-Benz E250 Bluetec Sedan 2.1L L4 — Chassis 212.004
+> View part 002-470-68-94-M14 in this catalog
+2014	Mercedes-Benz	E250	Bluetec	Sedan	2.1L L4
+2015	Mercedes-Benz	E250	Bluetec	Sedan	2.1L L4
+2016	Mercedes-Benz	E250	Bluetec	Sedan	2.1L L4
+Mercedes-Benz E350 Bluetec Sedan 3.0L V6 — Chassis 212.024
+> View part 002-470-68-94-M14 in this catalog
+2011	Mercedes-Benz	E350	Bluetec	Sedan	3.0L V6
+2012	Mercedes-Benz	E350	Bluetec	Sedan	3.0L V6
+2013	Mercedes-Benz	E350	Bluetec	Sedan	3.0L V6
+Mercedes-Benz GL320 Bluetec 4M Sport Utility 3.0L V6 — Chassis 164.825
+> View part 002-470-68-94-M14 in this catalog
+2009	Mercedes-Benz	GL320	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz GL320 CDI Sport Utility 3.0L V6 — Chassis 164.822
+> View part 002-470-68-94-M14 in this catalog
+2007	Mercedes-Benz	GL320	CDI	Sport Utility	3.0L V6
+2008	Mercedes-Benz	GL320	CDI	Sport Utility	3.0L V6
+Mercedes-Benz GL350 Bluetec 4M Sport Utility 3.0L V6 — Chassis 164.825
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+2011	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+2012	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz GL350 Bluetec 4M Sport Utility 3.0L V6 — Chassis 166.824
+> View part 002-470-68-94-M14 in this catalog
+2013	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+2014	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+2015	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+2016	Mercedes-Benz	GL350	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz GLK250 Bluetec 4M Sport Utility 2.1L L4 — Chassis 204.904
+> View part 002-470-68-94-M14 in this catalog
+2013	Mercedes-Benz	GLK250	Bluetec 4M	Sport Utility	2.1L L4
+2014	Mercedes-Benz	GLK250	Bluetec 4M	Sport Utility	2.1L L4
+2015	Mercedes-Benz	GLK250	Bluetec 4M	Sport Utility	2.1L L4
+Mercedes-Benz ML250 Bluetec 4M Sport Utility 2.1L L4 — Chassis 166.004
+> View part 002-470-68-94-M14 in this catalog
+2015	Mercedes-Benz	ML250	Bluetec 4M	Sport Utility	2.1L L4
+Mercedes-Benz ML320 Bluetec 4M Sport Utility 3.0L V6 — Chassis 164.125
+> View part 002-470-68-94-M14 in this catalog
+2009	Mercedes-Benz	ML320	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz ML320 CDI Sport Utility 3.0L V6 — Chassis 164.122
+> View part 002-470-68-94-M14 in this catalog
+2007	Mercedes-Benz	ML320	CDI	Sport Utility	3.0L V6
+2008	Mercedes-Benz	ML320	CDI	Sport Utility	3.0L V6
+Mercedes-Benz ML350 Bluetec 4M Sport Utility 3.0L V6 — Chassis 164.125
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	ML350	Bluetec 4M	Sport Utility	3.0L V6
+2011	Mercedes-Benz	ML350	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz ML350 Bluetec 4M Sport Utility 3.0L V6 — Chassis 166.024
+> View part 002-470-68-94-M14 in this catalog
+2012	Mercedes-Benz	ML350	Bluetec 4M	Sport Utility	3.0L V6
+2013	Mercedes-Benz	ML350	Bluetec 4M	Sport Utility	3.0L V6
+2014	Mercedes-Benz	ML350	Bluetec 4M	Sport Utility	3.0L V6
+Mercedes-Benz R320 Bluetec Wagon 3.0L V6 — Chassis 251.125
+> View part 002-470-68-94-M14 in this catalog
+2009	Mercedes-Benz	R320	Bluetec	Wagon	3.0L V6
+Mercedes-Benz R320 CDI Wagon 3.0L V6 — Chassis 251.122
+> View part 002-470-68-94-M14 in this catalog
+2007	Mercedes-Benz	R320	CDI	Wagon	3.0L V6
+2008	Mercedes-Benz	R320	CDI	Wagon	3.0L V6
+Mercedes-Benz R350 Bluetec 4M Wagon 3.0L V6 — Chassis 251.124
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	R350	Bluetec 4M	Wagon	3.0L V6
+Mercedes-Benz R350 Bluetec 4M Wagon 3.0L V6 — Chassis 251.125
+> View part 002-470-68-94-M14 in this catalog
+2011	Mercedes-Benz	R350	Bluetec 4M	Wagon	3.0L V6
+2012	Mercedes-Benz	R350	Bluetec 4M	Wagon	3.0L V6
+Mercedes-Benz S350 Bluetec 4M Sedan 3.0L V6 — Chassis 221.183
+> View part 002-470-68-94-M14 in this catalog
+2012	Mercedes-Benz	S350	Bluetec 4M	Sedan	3.0L V6
+2013	Mercedes-Benz	S350	Bluetec 4M	Sedan	3.0L V6
+Mercedes-Benz Sprinter 2500 Base EXT Cargo Van 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 2500	Base	EXT Cargo Van	3.0L V6
+2011	Mercedes-Benz	Sprinter 2500	Base	EXT Cargo Van	3.0L V6
+2012	Mercedes-Benz	Sprinter 2500	Base	EXT Cargo Van	3.0L V6
+2013	Mercedes-Benz	Sprinter 2500	Base	EXT Cargo Van	3.0L V6
+2014	Mercedes-Benz	Sprinter 2500	Base	EXT Cargo Van	3.0L V6
+Mercedes-Benz Sprinter 2500 Base STD Cargo Van 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 2500	Base	STD Cargo Van	3.0L V6
+2011	Mercedes-Benz	Sprinter 2500	Base	STD Cargo Van	3.0L V6
+2012	Mercedes-Benz	Sprinter 2500	Base	STD Cargo Van	3.0L V6
+2013	Mercedes-Benz	Sprinter 2500	Base	STD Cargo Van	3.0L V6
+2014	Mercedes-Benz	Sprinter 2500	Base	STD Cargo Van	3.0L V6
+Mercedes-Benz Sprinter 2500 Base STD Pass Van 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 2500	Base	STD Pass Van	3.0L V6
+2011	Mercedes-Benz	Sprinter 2500	Base	STD Pass Van	3.0L V6
+2012	Mercedes-Benz	Sprinter 2500	Base	STD Pass Van	3.0L V6
+2013	Mercedes-Benz	Sprinter 2500	Base	STD Pass Van	3.0L V6
+2014	Mercedes-Benz	Sprinter 2500	Base	STD Pass Van	3.0L V6
+Mercedes-Benz Sprinter 3500 Base Cab / Custom 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 3500	Base	Cab / Custom	3.0L V6
+2011	Mercedes-Benz	Sprinter 3500	Base	Cab / Custom	3.0L V6
+2012	Mercedes-Benz	Sprinter 3500	Base	Cab / Custom	3.0L V6
+2013	Mercedes-Benz	Sprinter 3500	Base	Cab / Custom	3.0L V6
+2014	Mercedes-Benz	Sprinter 3500	Base	Cab / Custom	3.0L V6
+Mercedes-Benz Sprinter 3500 Base EXT Cargo Van 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 3500	Base	EXT Cargo Van	3.0L V6
+2011	Mercedes-Benz	Sprinter 3500	Base	EXT Cargo Van	3.0L V6
+2012	Mercedes-Benz	Sprinter 3500	Base	EXT Cargo Van	3.0L V6
+2013	Mercedes-Benz	Sprinter 3500	Base	EXT Cargo Van	3.0L V6
+2014	Mercedes-Benz	Sprinter 3500	Base	EXT Cargo Van	3.0L V6
+Mercedes-Benz Sprinter 3500 Base STD Cargo Van 3.0L V6 — Chassis 906
+> View part 002-470-68-94-M14 in this catalog
+2010	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
+2011	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
+2012	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
+2013	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
+2014	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
+
+### Direct Replacement SCR/Urea Injection Nozzle -0280158705
+![0280158705](https://user-images.githubusercontent.com/22917810/130369315-a54262aa-fe97-4015-970f-518341459dc3.PNG)
+![0280158705-1](https://user-images.githubusercontent.com/22917810/130369317-dd262e23-b5b8-444e-8b1c-dc887395015f.PNG)
+![0280158705-2](https://user-images.githubusercontent.com/22917810/130369319-b6ec5ec2-78ec-4e13-9e74-9f10865f9e8f.PNG)
 
 
 
