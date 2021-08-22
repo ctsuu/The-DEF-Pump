@@ -289,6 +289,14 @@ F01C600244
 2010-2015 Mercedes Benz ML350 Bluetec Diesel V6 3.0L, I4 2.1L DOHC Turbocharged.
 
 
+## On logistic side - About Us
+We are Talented Component Co. Ltd., an independent Calgarian owned and operated family business dedicated to delivering the most cost-effective aftermarket auto solutions to our customer. We delivery six days a week. 
+
+At Talented Component, we work hard to source our products overseas so that the products available in Canada are made from the well estiablished manufactory, well tested to make sure original equipment functions and fit for a direct replacement. 
+
+By doing group buy, we work hard to bring the best value to our customers while being cost effective. During the COVID-19 pandemic, we also facing the global supply chain disruptions. The sea freight shipment has increased by 50%. Our 
+
+
 
 [Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
 
