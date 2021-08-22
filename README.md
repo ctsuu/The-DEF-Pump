@@ -26,10 +26,11 @@ A three-way catalytic converter in gasoline vehicles treats exhaust gas by both 
 
 [MB10033-DEF Q&A.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996377/MB10033-DEF.Q.A.pdf)
 
-# Our Solution: Diesel Exhaust Gas Treatment System
-[Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
-Our Solution is based on the Selective Catalytic Reduction(SCR) technology that uses a urea based diesel exhaust fluid (DEF) and a catalytic converter to significantly reduce oxides of nitrogen(NOx) emissions. SCR is the leading technology being used to meet 2010 emission regulations. 
-The system comprase with A Urea Tank, a Urea heating barrel, a metering pump, tubing and Urea injector. The only moving part is the DEF pump that injects small quantities of DEF into the exhaust upstream of a catalyst. The DEF vaporizes and decomposes to form ammonia and carbon dioxide. The ammonia (NH3) is the desired product which in conjunction to the SCR catalyst, converts the NOx to harmless nitrogen(N2) and water(H2O). 
+# Problems with: Diesel Exhaust Gas Treatment System
+
+The Selective Catalytic Reduction(SCR) technology that uses a urea based diesel exhaust fluid (DEF) and a catalytic converter to significantly reduce oxides of nitrogen(NOx) emissions. SCR is the leading technology being used to meet 2010 emission regulations. The system comprase with A Urea Tank, a Urea heating barrel, a metering pump, tubing and Urea injector. The only moving part is the DEF pump that injects small quantities (2% of the diesel fuel) of DEF into the exhaust upstream of a catalyst. The DEF vaporizes and decomposes to form ammonia and carbon dioxide. The ammonia (NH3) is the desired product which in conjunction to the SCR catalyst, converts the NOx to harmless nitrogen(N2) and water(H2O). 
+
+![UREA Tank and Components](https://user-images.githubusercontent.com/22917810/130363976-2d4cbe82-cab5-453a-8c38-c38ffe2b0e0f.png)
 
 A 32.5% solution of DEF will begin to crystallize and freeze at 12 deg F (-11 deg C). At 32.5%, both the urea and water will freeze at the same rate, ensuring that as it thaws, the fluid does not become diluted, or over concentrated. The freezing and unthawing of DEF will not cause degradation of the product. DEF expands by approximately 7% when frozen. DEF packaging and tanks are designed to allow for expansion.
 
@@ -41,6 +42,8 @@ https://www.vehicleservicepros.com/service-repair/diagnostics-and-drivability/ar
 
 The AdBlue tank is designed to store enough to make it to the next service but with aggressive driving it may have to be topped off before then. AdBlue’s freezing point is 12º Fahrenheit and unlike windshield washer fluid, there are no compatible anti-freezing additives. As a result, the entire storage and supply system is heated and there are no moving parts in the tank. Instead of a float to measure the level, an electronic sensor uses three switches to indicate Full, Reserve and Empty. There are three heaters as well — one in the tank, one inside the pump, and one on the pressure line to the metering valve. The pump is mounted on top of the tank but it has to pull from the bottom, so it has a hard time priming, unlike a fuel pump which is submerged. When the engine is shut off, the metering valve is held open, the pump switches into reverse, and empties the line so that it doesn’t freeze.
 
+# Our Solutions to the problems that associated with Diesel Exhaust Gas Treatment System
+[Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
 
 https://www.dormanproducts.com/p-84945-599-995.aspx?origin=keyword
   https://www.dormanproducts.com/p-130281-904-607.aspx?origin=keyword
