@@ -28,7 +28,7 @@ A three-way catalytic converter in gasoline vehicles treats exhaust gas by both 
 
 # Problems with: Diesel Exhaust Gas Treatment System
 
-The Selective Catalytic Reduction(SCR) technology that uses a urea based diesel exhaust fluid (DEF) and a catalytic converter to significantly reduce oxides of nitrogen(NOx) emissions. SCR is the leading technology being used to meet 2010 emission regulations. The system comprase with A Urea Tank, a Urea heating barrel, a metering pump, tubing and Urea injector. The only moving part is the DEF pump that injects small quantities (2% of the diesel fuel) of DEF into the exhaust upstream of a catalyst. The DEF vaporizes and decomposes to form ammonia and carbon dioxide. The ammonia (NH3) is the desired product which in conjunction to the SCR catalyst, converts the NOx to harmless nitrogen(N2) and water(H2O). 
+The Selective Catalytic Reduction(SCR) technology that uses a urea based diesel exhaust fluid (DEF) and a catalytic converter to significantly reduce oxides of nitrogen(NOx) emissions. SCR is the leading technology being used to meet 2010 emission regulations. The system comprase with A Urea Tank(group 1), a Urea heating barrel(group 5), a DEF pump(group 9), tubing and Urea injector(group 17). The only moving part is the DEF pump that injects small quantities (2% of the diesel fuel) of DEF into the exhaust upstream of a catalyst. The DEF vaporizes and decomposes to form ammonia and carbon dioxide. The ammonia (NH3) is the desired product which in conjunction to the SCR catalyst, converts the NOx to harmless nitrogen(N2) and water(H2O). 
 
 ![UREA Tank and Components](https://user-images.githubusercontent.com/22917810/130363976-2d4cbe82-cab5-453a-8c38-c38ffe2b0e0f.png)
 
@@ -36,13 +36,32 @@ A 32.5% solution of DEF will begin to crystallize and freeze at 12 deg F (-11 de
 
 During vehicle operation, SCR systems are designed to provide heating for the DEF tank and supply lines. If DEF freezes when the vehicle is shut down, start up and normal operation of the vehicle will not be inhibited. The SCR heating system is designed to quickly return the DEF to liquid form and the operation of the vehicle will not be impacted. The freezing and unthawing of DEF will not cause degradation of the product. No additive could be use to improve the freeze point. Any further blending or adjusting of the DEF mixture will impede its ability to perform correctly and may cause damage to the SCR components. 
 
-The Canadian Winter is well below the -11 deg C, sometime reaches -40 deg c. Even the OEM DEF distribution system is designed for the condition, the repeated freezing and unthawing cycle still can stress out the Urea pump. Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump for the Diesel engines on the list. 
-
 https://www.vehicleservicepros.com/service-repair/diagnostics-and-drivability/article/21196332/bluetec-a-revolution-in-diesel-nox-emissions-technology
 
 The AdBlue tank is designed to store enough to make it to the next service but with aggressive driving it may have to be topped off before then. AdBlue’s freezing point is 12º Fahrenheit and unlike windshield washer fluid, there are no compatible anti-freezing additives. As a result, the entire storage and supply system is heated and there are no moving parts in the tank. Instead of a float to measure the level, an electronic sensor uses three switches to indicate Full, Reserve and Empty. There are three heaters as well — one in the tank, one inside the pump, and one on the pressure line to the metering valve. The pump is mounted on top of the tank but it has to pull from the bottom, so it has a hard time priming, unlike a fuel pump which is submerged. When the engine is shut off, the metering valve is held open, the pump switches into reverse, and empties the line so that it doesn’t freeze.
 
+Diesel Exhaust Fluid (DEF) is a blended aqueous urea solution of 32.5% high purity urea and 67.5% deionized water used to reduce pollution in newer Tier 4 Final diesel engines. As DEF is injected directly into your SCR system, quality control is critical for peak operation of your equipment.
+
+Poor quality DEF can cause significant component damage, equipment failure and void the manufacturer’s warranty leading to expensive repair costs. When diesel exhaust fluid quality deteriorates, you may experience increased DEF consumption or reduced DEF effectiveness, equipment failure, SCR system malfunctions or component damage.
+
+## Diesel Exhaust Fluid quality can be affected by:
+
+Crystallization:  Crystallization can occur in a couple of ways – over-dosing and hard water top ups. Over-dosing occurs when too much DEF is added to the system – the DEF may not fully hydrolyze which can lead to crystalized deposits in the exhaust or injector nozzle. Over-dosing can result from a partially open DEF injector nozzle, plugged DEF lines or DEF pump issues. Topping up your DEF system with hard water can also result in scale or deposits forming.
+Dirt / Metal Contamination: Contaminated DEF can cause abrasion of the DEF pump. Dirt, rust or tank scale can occur with improper of DEF storage or handling (e.g. res-using disposable DEF containers).
+UREA Concentration (Dilution): Diluted DEF (too much water) reduces its NOx neutralization effectiveness. Most DEF is sold pre-mixed but topping up with water will affect concentrations (and could also lead to crystallization as noted above).
+Cold Weather: DEF may gel or freeze in colder climates (12ºF (-11ºC)) preventing engine operation. Additives should not be used to thaw DEF as additives can throw off the concentration of the fluid and damage the SCR system. A electrical heating barrel is controlled by a thermalstat. Any malfunction of the control circle could affect the quality of the DEF. A freezing Urea tank will proventing the engine running. Or overheated Urea tank will cause the crystalliztion, Urea concentration and contamination problems eventually. 
+Other Fluids: Contamination of the DEF tank from other fluids such as diesel fuel, coolant, or engine oil being added can cause damage to the SCR system and engine shutdown.
+
+https://www.fluidlife.com/blog-common-def-problems-testing/
+
 # Our Solutions to the problems that associated with Diesel Exhaust Gas Treatment System
+
+![UREA Tank and Components](https://user-images.githubusercontent.com/22917810/130365614-26e6d3e0-c916-4808-b811-c6f2b39e65ba.png)
+
+
+The Canadian Winter is well below the -11 deg C, sometime reaches -40 deg c. Even the OEM DEF distribution system is designed for the condition, the repeated freezing and unthawing cycle still can stress out the Urea pump. Our supplier has 26 years experienses in design and manufacture of vehicle fuel injection and exhaust emission systems for OEM and aftermarket customers. We have direct replacement DEF pump for the Diesel engines on the list. 
+
+
 [Jinjia DEF Pump Introduction.pdf](https://github.com/ctsuu/The-DEF-Pump/files/6996495/Jinjia.DEF.Pump.Introduction.pdf)
 
 https://www.dormanproducts.com/p-84945-599-995.aspx?origin=keyword
