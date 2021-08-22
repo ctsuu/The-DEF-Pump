@@ -77,6 +77,14 @@ This engine is the power plant for 2015-2019 Ford Transit-150, 250, 350, 350-HD 
 
 Our diesel exhaust fluid (DEF) pump (item 8) matches the fit and function of the original part( Cross Reference number: BC3Z5J229K, BC3Z5J229L, BC3Z5L227D, BC3Z5L227K, BC3Z5L229L). The package contents 1 Diesel Exhaust Fluid (DEF) pump and Mounting Hardwares. 
 
+## GM
+### V8 403 6.6L Duramax LML Diesel Engine
+With nearly 1.3 million Duramax diesel engines in operation, the Duramax diesel features the latest in emission control technology, making it the cleanest Duramax engine ever produced, with NOx emissions reduced by at least 63 percent in the LML version. This engine powers 2010-2016 Chevrolet Express 2500, 3500, 4500, GMC Savana 2500, 3500, 4500, 2011-2016 Chevrolet Silverado 2500 HD, 3500 HD, 2011-2016 GMC Sierra 2500 HD, 3500 HD. 
+
+![UREA Tank and Components GM 2](https://user-images.githubusercontent.com/22917810/130367919-780ead45-7c58-4b82-bc08-24ad248adf9e.PNG)
+
+![UREA Tank and Components GM](https://user-images.githubusercontent.com/22917810/130367926-80d66590-3378-4e17-973c-af66b07f25ff.png)
+
 
 
 
