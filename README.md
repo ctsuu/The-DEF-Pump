@@ -215,10 +215,78 @@ Mercedes-Benz Sprinter 3500 Base STD Cargo Van 3.0L V6 — Chassis 906
 2013	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
 2014	Mercedes-Benz	Sprinter 3500	Base	STD Cargo Van	3.0L V6
 
-### Direct Replacement SCR/Urea Injection Nozzle -0280158705
+### Direct Replacement SCR/Urea Injection Nozzle - 0280158705
 ![0280158705](https://user-images.githubusercontent.com/22917810/130369315-a54262aa-fe97-4015-970f-518341459dc3.PNG)
 ![0280158705-1](https://user-images.githubusercontent.com/22917810/130369317-dd262e23-b5b8-444e-8b1c-dc887395015f.PNG)
 ![0280158705-2](https://user-images.githubusercontent.com/22917810/130369319-b6ec5ec2-78ec-4e13-9e74-9f10865f9e8f.PNG)
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for VW Passat - 561198970
+#### Fitment
+2012-2014 VW Passat TDI SEL Sedan 4 Door L4- 2.0L Diesel 
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for VW Touareg - 7P6198970 (Item 5)
+![9241317](https://user-images.githubusercontent.com/22917810/130369586-753a8ec4-359c-4495-a8aa-f9c6c727dc46.png)
+#### Associated Part Number: 
+7P6198970, 7P6198970A, BC3Z5L227-F, 7034114, 904-372
+#### Fitment
+2013-2016 VW Touareg V6 3.0L Diesel 
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for VW Touareg - Bosch F01C600276
+#### Associated Part Number: 
+F01C600276
+#### Fitment
+2013-2016 VW Touareg V6 3.0L Diesel 
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz ML350 - Bosch F01C600245
+#### Associated Part Number: 
+1644711275, F01C600245
+#### Fitment
+2010-2015 Mercedes Benz ML350 V6 3.0L Bluetec Diesel 
+2015 Mercedes Benz ML250 L4-2.1L Bluetec Diesel
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for BMW - Bosch F01C600251
+#### Associated Part Number: 
+F01C600251
+#### Fitment
+2009-2013 BMW X5 xDrive 35d V6 3.0L Bluetec Diesel 
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz E250 - Bosch F01C600241
+#### Associated Part Number: 
+2124710575, F01C600241
+#### Fitment
+2014-2016 Mercedes Benz E250 L4 2.1L Bluetec Diesel 
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz GLK250 - Bosch F01C600238
+#### Associated Part Number: 
+2044710575, F01C600238
+#### Fitment
+2015 Mercedes Benz GLK250 Bluetec Diesel 
+2013-2015 Mercedes Benz ML250 Bluetec Diesel
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz Sprinter - Bosch F01C600232
+#### Associated Part Number: 
+9064700553, F01C600232
+#### Fitment
+2010-2016 Mercedes Benz Sprinter 2500, 3500 Bluetec Diesel 
+2010-2016 Freightliner Sprinter 2500, 3500 Bluetec Diesel
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Freightliner Sprinter - Bosch F01C600228
+#### Associated Part Number: 
+9064700353, F01C600228
+#### Fitment
+2010-2016 Freightliner Sprinter 2500, 3500 Bluetec Diesel
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz S350 - Bosch F01C600240
+#### Associated Part Number: 
+F01C600240
+#### Fitment
+2010-2016 Mercedes Benz S350 Bluetec Diesel
+
+### Direct Replacement Diesel Emission Fluid(DEF) Heaters for Mercedes Benz ML350 - Bosch F01C600244
+#### Associated Part Number: 
+F01C600244
+#### Fitment
+2010-2015 Mercedes Benz ML350 Bluetec Diesel V6 3.0L, I4 2.1L DOHC Turbocharged.
 
 
 
