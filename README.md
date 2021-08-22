@@ -2,7 +2,7 @@
 On Jan. 1, 2010, tough new EPA emissions regulations required all new diesel engines to reduce nitrogen dioxide emission levels by 90 percent from 2007 and by 96 percent from 1994.
 
 # Which vehicle require DEF
-the 2011 Ford F-Series Super Duty, powered by the all-new 6.7-liter Power Stroke V-8, and the 2011 Chevrolet Silverado and GMC Sierra HD pickups, powered by the updated 6.6-liter LML Duramax V-8. Ram 2500 and 3500 pickup trucks use a urea-free NOx absorber catalyst that doesn’t require DEF, while Ram 3500, 4500 and 5500 chassis trucks use urea SCR and DEF.
+The 2011 Ford F-Series Super Duty, powered by the all-new 6.7-liter Power Stroke V-8, and the 2011 Chevrolet Silverado and GMC Sierra HD pickups, powered by the updated 6.6-liter LML Duramax V-8. Ram 2500 and 3500 pickup trucks use a urea-free NOx absorber catalyst that doesn’t require DEF, while Ram 3500, 4500 and 5500 chassis trucks use urea SCR and DEF.
 
 Because diesel trucks that run out of DEF are no longer emissions-compliant, they are virtually immobilized when the DEF tank runs dry, even if there’s diesel fuel available to keep them trucking. Ford, GM and Chrysler have similar strategies to alert drivers when their DEF tanks have 1,000 miles or less range left, so modern diesel drivers won’t get stranded on the side of the road.
 
@@ -10,29 +10,8 @@ https://news.pickuptrucks.com/2010/07/real-world-challenges-with-diesel-exhaust-
 
 https://www.dormanproducts.com/flipbook/dormandiesel/catalog/versions/die75592-1.pdf
 
-# Diesel Engine Line up
-
-## Chrysler
-### 2.7L
-### 3.0L
-### 5.9L
-### 6.7L
-
-## Ford
-### 6.0L
-### 6.4L
-### 6.9L
-### 7.3L
-
-## GM
-https://www.dormanproducts.com/p-130281-904-607.aspx?origin=keyword
-### 6.2L
-### 6.5L
-### 6.6L
-
-## Mercedes Benz
-### https://www.mb-kc.com/mercedes-benz-bluetec-engines
 ### Understanding How BlueTEC engines Work
+https://www.mb-kc.com/mercedes-benz-bluetec-engines
 Mercedes-Benz didn’t stumble upon the world’s cleanest diesel vehicle by chance. It took years of engineering and innovation to get them where they are today. Modern Mercedes-Benz BlueTEC engines work as well-oiled machines, using complex components like high-pressure fuel injection and variable-vane turbo to create more powerful combustion, which is where the incredible low-end torque originates.
 
 A substance called AdBlue helps Mercedes-Benz BlueTEC engines produce such clean emissions. When AdBlue is injected into the the exhaust, the substance converts nitrogen oxide emissions into harmless nitrogen and oxygen, emitting very little detrimenal gas.
