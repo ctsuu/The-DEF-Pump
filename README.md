@@ -80,11 +80,17 @@ Our diesel exhaust fluid (DEF) pump (item 8) matches the fit and function of the
 ## GM
 ### V8 403 6.6L Duramax LML Diesel Engine
 With nearly 1.3 million Duramax diesel engines in operation, the Duramax diesel features the latest in emission control technology, making it the cleanest Duramax engine ever produced, with NOx emissions reduced by at least 63 percent in the LML version. This engine powers 2010-2016 Chevrolet Express 2500, 3500, 4500, GMC Savana 2500, 3500, 4500, 2011-2016 Chevrolet Silverado 2500 HD, 3500 HD, 2011-2016 GMC Sierra 2500 HD, 3500 HD. 
-
 ![UREA Tank and Components GM 2](https://user-images.githubusercontent.com/22917810/130367919-780ead45-7c58-4b82-bc08-24ad248adf9e.PNG)
 
-![UREA Tank and Components GM](https://user-images.githubusercontent.com/22917810/130367926-80d66590-3378-4e17-973c-af66b07f25ff.png)
+Our diesel exhaust fluid (DEF) pump (item 7) matches the fit and function of the original part( Cross Reference number: 22902634). The package contents 1 Diesel Exhaust Fluid (DEF) pump and Mounting Hardwares. 
 
+Our Urea heater (item 6) is the direct replacement of the original part (Cross reference number: F01C600307). 
+
+## Audi/BMW/Mercedes Benz/Volkswagen
+### Direct Replacement Diesel Emission Fluid(DEF) Pump -0024706894 - Bosch F-01C-600-194
+0928404016 F01C600194, 002 470 68 94 With nearly 1.3 million Duramax diesel engines in operation,
+
+![s-l1600](https://user-images.githubusercontent.com/22917810/130368971-605aa810-6c27-49b3-b9ee-8accbb9b38ae.jpg)
 
 
 
